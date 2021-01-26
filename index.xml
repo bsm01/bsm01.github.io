@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>第1回 生体分子シミュレーション・モデリング研究会</title>
+    <title>main on 第1回 生体分子シミュレーション・モデリング研究会</title>
     <link>https://bsm01.github.io/</link>
-    <description>Recent content on 第1回 生体分子シミュレーション・モデリング研究会</description>
+    <description>Recent content in main on 第1回 生体分子シミュレーション・モデリング研究会</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 22 Jan 2021 01:08:13 +0900</lastBuildDate><atom:link href="https://bsm01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jan 2020 01:08:13 +0900</lastBuildDate><atom:link href="https://bsm01.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
